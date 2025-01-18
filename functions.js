@@ -72,7 +72,7 @@ function update_current_time()  {
 }
 
 setInterval(update_current_time, 1000);
-var background_music =  new Audio("assets/background_music.aac");
+var background_music =  new Audio("assets/background_music_2.aac");
 var typing_sfx = new Audio("assets/typing.mp3");
 
 
